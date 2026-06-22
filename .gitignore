@@ -1,5 +1,5 @@
 venv/
 dataset/
 multispectral_error.ipynb
-best_eurosat_model.pth
-best_eurosat_model_best.pth
+model/
+best_eurosat_model_error.pth
