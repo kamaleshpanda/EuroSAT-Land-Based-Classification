@@ -3,3 +3,4 @@ dataset/
 multispectral_error.ipynb
 model/
 best_eurosat_model_error.pth
+.DS_Store
